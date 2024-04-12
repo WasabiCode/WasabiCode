@@ -1,5 +1,5 @@
 - 👋 Hi, MY NAME IS VACLAV KNAPP
-- 👀 I’m interested in Machine learning and also it's implemetation in health, Quantum computing, Physics and Mathematic
+- 👀 I’m interested in AI, computer vision, Quantum computing, Physics and Mathematics
 - 📫 You can reach me on my email = vasikknapp@gmail.com
 
 <!---
